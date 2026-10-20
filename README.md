@@ -68,7 +68,7 @@ SolarSwap lets **prosumers** (producers + consumers) trade energy peer-to-peer:
 ```bash
 # Prerequisites: Python 3.12+, Docker, AlgoKit
 pipx install algokit
-git clone https://github.com/<your-username>/solarswap-algorand.git
+git clone https://github.com/<yashuashara>/solarswap-algorand.git
 cd solarswap-algorand
 algokit localnet start
 ```
